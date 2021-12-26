@@ -8,9 +8,8 @@ The classification goal is to predict whether the patient has 10-year risk of fu
 
 Algorithms used:
 1) K nearest neighbours
-2) Decision trees
-3) Random forests
-4) Logistic regression
+2) Random forests
+3) Logistic regression
 
 An ensemble learning technique called “voting classifier” is also implemented. 
 A Voting Classifier is a machine learning model that trains on an ensemble of numerous models and predicts an output based on their highest probability of chosen class as the output.
